@@ -1,2 +1,2 @@
-puts "Heloo, World"
+puts "Heloo, #{ARG.FIRST}!"
 
